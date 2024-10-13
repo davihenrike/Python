@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 import emoji
 
+#Feito para ser um aquivo.exe
 # Função do jogo
 def jogar(escolha_jogador):
     pedra = 'pedra'
